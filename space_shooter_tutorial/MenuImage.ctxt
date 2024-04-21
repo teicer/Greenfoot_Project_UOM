@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuImage
+comment1.params=imagePath
+comment1.target=MenuImage(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

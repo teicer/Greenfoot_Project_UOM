@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fire
+comment1.params=typeOfFire\ damage\ fireRate
+comment1.target=Fire(java.lang.String,\ double,\ double)
+comment10.params=
+comment10.target=boolean\ canFire()
+comment11.params=
+comment11.target=void\ removeFromWorld()
+comment2.params=
+comment2.target=Fire\ createCopy()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fireMove()
+comment5.params=
+comment5.target=java.lang.String\ getTypeOfFire()
+comment6.params=
+comment6.target=double\ getDamage()
+comment7.params=damage
+comment7.target=void\ setDamage(double)
+comment8.params=
+comment8.target=double\ getFireRate()
+comment9.params=fireRate
+comment9.target=void\ setFireRate(double)
+numComments=12

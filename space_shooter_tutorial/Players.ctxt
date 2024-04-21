@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Players
+comment1.params=
+comment1.target=Players()
+comment10.params=
+comment10.target=void\ fire()
+comment11.params=level
+comment11.target=void\ setLevel(int)
+comment12.params=
+comment12.target=void\ isHitted()
+comment2.params=imageFileName1\ imageFileName2\ life\ fire
+comment2.target=Players(java.lang.String,\ java.lang.String,\ int,\ Fire)
+comment3.params=
+comment3.target=int\ getLife()
+comment4.params=life
+comment4.target=void\ setLife(int)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ checkKeysPress()
+comment7.params=boosterOn
+comment7.target=void\ ignite(boolean)
+comment8.params=fire
+comment8.target=void\ setTypeOfFire(Fire)
+comment9.params=
+comment9.target=Fire\ getFire()
+numComments=13

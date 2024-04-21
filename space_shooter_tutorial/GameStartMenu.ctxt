@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameStartMenu
+comment1.params=
+comment1.target=GameStartMenu()
+comment2.params=title\ instructions
+comment2.target=void\ makeImage(java.lang.String,\ java.lang.String[])
+comment3.params=
+comment3.target=void\ act()
+numComments=4
