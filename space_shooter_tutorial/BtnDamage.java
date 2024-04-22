@@ -3,7 +3,7 @@ import java.util.List;
 public class BtnDamage extends BuyBtn
 {
     public BtnDamage(){
-        super(2,false);
+        super(40,false);
     } 
     
     public void act()
@@ -26,9 +26,9 @@ public class BtnDamage extends BuyBtn
             if(availableMoney >= price){
                 Fire currentFire = player1.getFire();
                 double currentDamage = currentFire.getDamage();
-                currentFire.setDamage(currentDamage + 10);
+                currentFire.setDamage(currentDamage + 2);
                 cash.setSpentMoney(price);
-                System.out.println(currentFire.getDamage());
+                
             }
         }
     }

@@ -1,4 +1,4 @@
-import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
+import greenfoot.*;  
 import java.awt.Graphics;
 
 
@@ -9,7 +9,8 @@ public class TextActor extends Actor {
     private int fontSize;
     
    public TextActor(String text, int fontSize,Color textColor) {
-        GreenfootImage image = new GreenfootImage(text, fontSize, textColor, new Color(255, 180, 150,0)); // Δημιουργία ενός GreenfootImage με το κείμενο
+       // Δημιουργία ενός GreenfootImage με το κείμενο
+        GreenfootImage image = new GreenfootImage(text, fontSize, textColor, new Color(255, 180, 150,0)); 
         setImage(image);
     }
     
